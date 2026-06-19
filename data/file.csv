@@ -1,0 +1,101 @@
+date,category,amount,merchant,payment_method
+2024-01-01,Education,3019.02,Local Tuition Center,Net Banking
+2024-01-05,Rent,15011.54,Landlord - Monthly Rent,Net Banking
+2024-01-07,Entertainment,472.83,Spotify,UPI
+2024-01-11,Groceries,2630.69,Local Kirana Store,UPI
+2024-01-13,Healthcare,4025.16,Apollo Pharmacy,UPI
+2024-01-20,Entertainment,888.34,Spotify,UPI
+2024-01-22,Dining,1325.94,Swiggy,Debit Card
+2024-01-24,Education,867.96,Coursera,Debit Card
+2024-01-26,Rent,12882.89,Landlord - Monthly Rent,Cash
+2024-02-03,Miscellaneous,778.43,Salon,Debit Card
+2024-02-05,Shopping,4505.46,Local Mall Store,Cash
+2024-02-08,Rent,16546.68,Landlord - Monthly Rent,Net Banking
+2024-02-09,Entertainment,149.01,BookMyShow,Cash
+2024-02-12,Transport,1133.08,Local Bus,Cash
+2024-02-13,Groceries,2434.63,DMart,Net Banking
+2024-02-14,Miscellaneous,1399.17,Gift Purchase,Credit Card
+2024-02-17,Rent,15195.87,Landlord - Monthly Rent,Debit Card
+2024-02-24,Miscellaneous,599.76,Salon,Credit Card
+2024-03-08,Groceries,1945.59,DMart,Debit Card
+2024-03-08,Shopping,4399.62,Local Mall Store,Credit Card
+2024-03-08,Entertainment,950.04,BookMyShow,Credit Card
+2024-03-09,Rent,16230.42,Landlord - Monthly Rent,Debit Card
+2024-03-12,Utilities,2107.72,Jio Fiber,Debit Card
+2024-03-13,Groceries,1982.55,More Supermarket,Credit Card
+2024-03-13,Groceries,1669.22,Local Kirana Store,Credit Card
+2024-03-16,Transport,701.78,Uber,Credit Card
+2024-03-24,Miscellaneous,1887.26,Salon,Credit Card
+2024-04-02,Entertainment,108.53,Amazon Prime Video,Debit Card
+2024-04-02,Entertainment,794.07,Netflix,Net Banking
+2024-04-13,Transport,1099.55,Uber,Cash
+2024-04-17,Miscellaneous,1830.36,ATM Withdrawal,Debit Card
+2024-04-20,Groceries,399.75,DMart,Net Banking
+2024-04-22,Healthcare,2704.67,Practo,Net Banking
+2024-04-29,Groceries,648.57,DMart,Credit Card
+2024-05-03,Dining,1442.03,Zomato,Debit Card
+2024-05-04,Healthcare,2458.61,Apollo Pharmacy,Net Banking
+2024-05-10,Entertainment,308.64,Amazon Prime Video,Cash
+2024-05-11,Dining,1416.79,Domino's Pizza,UPI
+2024-05-17,Miscellaneous,103.52,Gift Purchase,Credit Card
+2024-05-22,Healthcare,3077.26,MedPlus,UPI
+2024-05-29,Healthcare,2026.73,Apollo Pharmacy,Cash
+2024-05-31,Rent,12880.26,Landlord - Monthly Rent,Net Banking
+2024-06-01,Shopping,2720.37,Amazon,Net Banking
+2024-06-16,Rent,12237.77,Landlord - Monthly Rent,UPI
+2024-06-24,Shopping,4638.18,Flipkart,Cash
+2024-07-02,Entertainment,321.0,Netflix,Net Banking
+2024-07-04,Groceries,2707.71,Local Kirana Store,UPI
+2024-07-04,Entertainment,716.1,Netflix,Cash
+2024-07-08,Rent,12874.08,Landlord - Monthly Rent,UPI
+2024-07-10,Utilities,936.62,Airtel Postpaid,Net Banking
+2024-07-11,Transport,1183.63,Metro Card Recharge,UPI
+2024-07-14,Rent,16078.61,Landlord - Monthly Rent,Credit Card
+2024-07-15,Dining,1004.76,Domino's Pizza,Credit Card
+2024-07-20,Dining,859.68,Cafe Coffee Day,Credit Card
+2024-07-22,Miscellaneous,1460.95,Salon,UPI
+2024-07-30,Entertainment,130.78,BookMyShow,UPI
+2024-08-03,Entertainment,904.62,Spotify,UPI
+2024-08-06,Groceries,2958.62,More Supermarket,Net Banking
+2024-08-07,Utilities,1911.77,Airtel Postpaid,Net Banking
+2024-08-12,Healthcare,2880.41,City Hospital,Net Banking
+2024-08-17,Education,2647.15,Coursera,Cash
+2024-08-21,Utilities,1691.57,Jio Fiber,Net Banking
+2024-08-21,Utilities,787.6,Jio Fiber,Debit Card
+2024-09-04,Rent,16667.16,Landlord - Monthly Rent,Cash
+2024-09-07,Shopping,3322.17,Myntra,Cash
+2024-09-07,Transport,461.96,IndianOil Petrol Pump,Cash
+2024-09-08,Entertainment,893.51,Netflix,UPI
+2024-09-09,Groceries,617.83,More Supermarket,UPI
+2024-09-14,Education,2829.63,Udemy,Net Banking
+2024-09-17,Dining,992.44,Local Restaurant,Debit Card
+2024-09-17,Groceries,1295.46,DMart,UPI
+2024-09-29,Groceries,215.8,More Supermarket,Net Banking
+2024-10-02,Dining,192.35,Domino's Pizza,UPI
+2024-10-02,Utilities,2110.85,Gas Agency,Credit Card
+2024-10-03,Healthcare,4378.74,MedPlus,Credit Card
+2024-10-06,Shopping,2988.91,Decathlon,Debit Card
+2024-10-12,Healthcare,1303.51,Local Clinic,UPI
+2024-10-13,Dining,1185.68,Zomato,Credit Card
+2024-10-17,Shopping,2705.41,Decathlon,Cash
+2024-10-18,Groceries,1084.93,Local Kirana Store,Credit Card
+2024-10-26,Education,348.33,Local Tuition Center,Credit Card
+2024-10-31,Rent,16961.66,Landlord - Monthly Rent,Net Banking
+2024-11-05,Dining,768.34,Swiggy,Debit Card
+2024-11-07,Healthcare,2508.23,Local Clinic,Cash
+2024-11-08,Education,2746.3,Udemy,Net Banking
+2024-11-08,Healthcare,3783.81,Apollo Pharmacy,UPI
+2024-11-11,Utilities,1929.42,Airtel Postpaid,Credit Card
+2024-11-13,Groceries,1026.31,Local Kirana Store,UPI
+2024-11-19,Miscellaneous,216.58,Bank Charges,UPI
+2024-11-21,Education,2089.09,Udemy,UPI
+2024-11-25,Rent,16404.24,Landlord - Monthly Rent,Net Banking
+2024-11-28,Miscellaneous,1767.56,Bank Charges,Credit Card
+2024-12-01,Rent,17812.01,Landlord - Monthly Rent,UPI
+2024-12-05,Healthcare,3666.35,Practo,Credit Card
+2024-12-09,Rent,13263.76,Landlord - Monthly Rent,Cash
+2024-12-11,Utilities,1176.43,Gas Agency,Debit Card
+2024-12-14,Miscellaneous,1453.46,Bank Charges,Credit Card
+2024-12-15,Healthcare,4939.74,Practo,UPI
+2024-12-15,Shopping,4749.31,Flipkart,Net Banking
+2024-12-22,Miscellaneous,734.13,Salon,UPI
