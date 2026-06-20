@@ -1,0 +1,51 @@
+<html>
+
+<head>
+    <title>Money Tracker</title>
+</head>
+
+<body>
+    <h1>Money Tracker</h1>
+
+    <form action="/upload" method="post" enctype="multipart/form-data">
+        <input name="file" type="file">
+
+        <select name="analysis">
+
+            <option value="top3">
+                Top 3 Expenses
+            </option>
+
+            <option value="monthly">
+                Monthly Totals
+            </option>
+
+            <option value="category">
+                Category Analysis
+            </option>
+
+        </select>
+        <button type="submit" name="action" value="show">
+            Show Data
+        </button>
+
+        <button type="submit" name="action" value="analyze">
+            Analyze
+        </button>
+
+        </br></br>
+
+        Merchant search <input type="name" name="merchant"></br></br>
+
+        Date filter</br></br>
+        Start <input type="date" name="start_date"></br></br>
+        End <input type="date" name="end_date">
+    </form>
+
+    {{filtered|safe}}
+
+
+
+</body>
+
+</html>
