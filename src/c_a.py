@@ -44,7 +44,13 @@ def date_range(data, start, end):
     date_result = data[(data["date"]>=start_date) & (data["date"]<=end_date)]
     return(date_result)
 
-def total_spent (data):
-    total = data[data["refund"]=="NO"]["amount"].sum()
+def summary (data):
+    spent = data[data["refund"]=="NO"]["amount"].sum()
     refund = data[data["refund"]=="YES"]["amount"].sum()
-    return (total-refund)
+    total = spent-refund
+
+    return {
+        "spent":round(spent,2),
+        "refund":round(refund,2),
+        "total":round(total,2)
+    }

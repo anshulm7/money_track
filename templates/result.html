@@ -2,11 +2,20 @@
 
 <head>
     <title>Result</title>
+    <a href="/">Home</a>
 </head>
 
 <body>
-    <h1>{{name|safe}}</h1>
+    <h1>Results</h1>
+    <h2>{{name|safe}}</h2>
     {{table|safe}}
+
+    {% if summary %}
+    <p>Spent : {{summary.spent}}</p>
+    <p>Refund : {{summary.refund}}</p>
+    <p>Total : {{summary.total}}</p>
+    {% endif %}
+
 </body>
 
 </html>

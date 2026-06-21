@@ -24,10 +24,11 @@
                 Category Analysis
             </option>
 
+            <option value="summary">
+                Summary
+            </option>
+
         </select>
-        <button type="submit" name="action" value="show">
-            Show Data
-        </button>
 
         <button type="submit" name="action" value="analyze">
             Analyze
@@ -42,9 +43,9 @@
         End <input type="date" name="end_date">
     </form>
 
-    {{filtered|safe}}
-
-
+    {%if error%}
+    <p>{{error}}</p>
+    {% endif %}
 
 </body>
 
